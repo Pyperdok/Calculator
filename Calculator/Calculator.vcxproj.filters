@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Pyperdok\source\repos\Calculator\Calculator\Source\Private\IBinaryOperator\BinaryOperator\Add.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Pyperdok\source\repos\Calculator\Calculator\Source\Private\IBinaryOperator\BinaryOperator\Div.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Pyperdok\source\repos\Calculator\Calculator\Source\Private\IBinaryOperator\BinaryOperator\Mul.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Pyperdok\source\repos\Calculator\Calculator\Source\Private\IBinaryOperator\BinaryOperator\Sub.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Pyperdok\source\repos\Calculator\Calculator\Source\Private\IMathFunction\MathFunction\Cos.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Pyperdok\source\repos\Calculator\Calculator\Source\Private\IMathFunction\MathFunction\Lg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Pyperdok\source\repos\Calculator\Calculator\Source\Private\IMathFunction\MathFunction\Sin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Pyperdok\source\repos\Calculator\Calculator\Source\Private\MathParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Pyperdok\source\repos\Calculator\Calculator\Source\Private\MathParserParam.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Pyperdok\source\repos\Calculator\Calculator\Source\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B84484F5-A9DE-384E-ADE8-23CB0CEE07A3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Public\MathParser\MathParser.h" />
+    <ClInclude Include="Source\Public\MathParser\MathParserParam.h" />
+  </ItemGroup>
+</Project>
